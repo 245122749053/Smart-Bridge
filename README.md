@@ -1,5 +1,5 @@
-# Smart-Bridge
-# How to Run the Project– Intelligent Sensor-Based Monitoring System
+# Smart-Bridge – Intelligent Sensor-Based Monitoring System
+# How to Run the Project
 A real-time sensor-based system to monitor bridge safety, track water levels, detect vibrations, and alert authorities using IoT dashboards.
 1. Arduino Code
 - Open code/Smart_Bridge.ino in Arduino IDE
