@@ -1,5 +1,5 @@
 # Smart-Bridge
-#How to Run the Project
+# How to Run the Project
 1. Arduino Code
 - Open code/Smart_Bridge.ino in Arduino IDE
 - Select board → Arduino Uno
@@ -16,12 +16,12 @@
 - Build bar/line graphs
 
   
-#Future Enhancements
+# Future Enhancements
 - Mobile app alerts
 - ML-based predictive maintenance
 - Multi-bridge integration
 - Real IoT deployment using NodeMCU/ESP32
 
 
-#Conclusion
+# Conclusion
 This project provides a safe, efficient, and automated system for bridge monitoring using IoT, sensors, and data visualization.
