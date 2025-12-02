@@ -28,7 +28,7 @@ A real-time sensor-based system to monitor bridge safety, track water levels, de
 # Tools & Technologies
 - Arduino IDE
 - Proteus Simulation
-= Elasticsearch & Kibana
+- Elasticsearch & Kibana
 - Ultrasonic, Vibration, Water Sensors
 
 
