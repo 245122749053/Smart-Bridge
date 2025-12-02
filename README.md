@@ -1,5 +1,6 @@
 # Smart-Bridge
-# How to Run the Project
+# How to Run the Project– Intelligent Sensor-Based Monitoring System
+A real-time sensor-based system to monitor bridge safety, track water levels, detect vibrations, and alert authorities using IoT dashboards.
 1. Arduino Code
 - Open code/Smart_Bridge.ino in Arduino IDE
 - Select board → Arduino Uno
@@ -16,6 +17,21 @@
 - Build bar/line graphs
 
   
+# Features
+- Real-time distance, vibration, and water-level monitoring
+- Alerts via LED/Buzzer for unsafe levels
+- Live dashboard using Kibana
+- Proteus-based hardware simulation
+- CSV-based data logging
+
+
+# Tools & Technologies
+Arduino IDE
+Proteus Simulation
+Elasticsearch & Kibana
+Ultrasonic, Vibration, Water Sensors
+
+
 # Future Enhancements
 - Mobile app alerts
 - ML-based predictive maintenance
